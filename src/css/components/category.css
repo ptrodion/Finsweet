@@ -1,0 +1,49 @@
+.category__wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 48px;
+}
+
+.category__title {
+    font-family: Sen;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: -2px;
+    color: #232536;
+    ;
+
+}
+
+.category__list {
+    display: flex;
+    gap: 32px;
+}
+
+
+.category__list_title {
+    font-family: Sen;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 40px;
+    letter-spacing: -1px;
+    color: #232536;
+    margin-top: 16px;
+    margin-bottom: 4px;
+
+}
+
+.category__list-item {
+    padding: 32px;
+}
+
+.category__list_text {
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0px;
+    color: #232536;
+
+}

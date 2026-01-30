@@ -5,3 +5,4 @@ loadPartial('#footer', './partials/footer.html');
 loadPartial('#hero', './partials/main/hero.html');
 loadPartial('#post', './partials/main/post.html');
 loadPartial('#about', './partials/main/about.html');
+loadPartial('#category', './partials/main/category.html');
